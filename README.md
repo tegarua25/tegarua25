@@ -8,15 +8,14 @@
 
 - 🔭 I’m currently working on [Genesist](https://genesist.soca.ai/)
 
-- 🌱 I’m currently learning **Flask and Fast API**
 
-- 👨‍💻 All of my projects are available at [https://tegar-portofolio.vercel.app/](https://tegar-portofolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tegarxx.xyz/](https://tegarxx.xyz/)
 
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **tegar.umar@gmail.com**
 
-- 📄 Know about my experiences [https://tegar-portofolio.vercel.app/](https://tegar-portofolio.vercel.app/)
+- 📄 Know about my experiences [https://tegarxx.xyz/](https://tegarxx.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
